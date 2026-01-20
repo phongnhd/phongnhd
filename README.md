@@ -1,16 +1,14 @@
 <h1 align="center">Xin chào 👋, tôi là Phong</h1>
-<h3 align="center">Sinh viên năm cuối | Web Developer (ReactJS)</h3>
+<h3 align="center"> Web Developer</h3>
 
 <ul>
   <li>🎓 Sinh viên năm cuối ngành Công nghệ Thông tin</li>
-  <li>⚛️ Định hướng Frontend / Full-stack với <b>ReactJS</b></li>
+  <li>⚛️ Định hướng Full-stack với <b>NodeJs</b> và <b>ReactJS</b>  </li>
   <li>⛓️ Quan tâm tới <b>Blockchain, Smart Contract (Solidity)</b></li>
-  <li>🌱 Hiện đang học <b>React nâng cao, TypeScript, Next.js</b></li>
-  <li>🎯 Mục tiêu: Ứng tuyển <b>Fresher / Junior React Developer</b> hoặc vị trí liên quan đến <b>Blockchain</b></li>
   <li>📫 Liên hệ:
     <ul>
       <li>Email: phongnguyenhoangduy2605@gmail.com</li>
-      <li>LinkedIn:... </li>
+      <li>LinkedIn: https://www.linkedin.com/in/phongnhd/ </li>
     </ul>
   </li>
 </ul>
