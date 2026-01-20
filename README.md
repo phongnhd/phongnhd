@@ -31,21 +31,17 @@
 
 <h3 align="left">Công nghệ sử dụng:</h3>
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-2D2D2D?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-2D2D2D?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-2D2D2D?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TailwindCSS-2D2D2D?style=for-the-badge&logo=tailwindcss" />
+**Frontend**
+![React](https://img.shields.io/badge/React?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS?style=for-the-badge&logo=tailwindcss)
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-2D2D2D?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-2D2D2D?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-2D2D2D?style=for-the-badge&logo=mongodb" />
+**Blockchain**
+![Solidity](https://img.shields.io/badge/Solidity?style=for-the-badge&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum?style=for-the-badge&logo=ethereum)
 
-  <!-- Blockchain -->
-  <img src="https://img.shields.io/badge/Solidity-2D2D2D?style=for-the-badge&logo=solidity" />
-  <img src="https://img.shields.io/badge/Ethereum-2D2D2D?style=for-the-badge&logo=ethereum" />
-</p>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB?style=for-the-badge&logo=mongodb)
 
