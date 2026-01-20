@@ -1,22 +1,33 @@
-<h1 align="center">Xin chào 👋, mình là Phong Nguyễn</h1>
-<h3 align="center">Sinh viên năm cuối | Web Dev</h3>
+<h1 align="center">Xin chào 👋, tôi là Phong</h1>
+<h3 align="center">Sinh viên năm cuối | Web Developer (ReactJS)</h3>
 
 <ul>
   <li>🎓 Sinh viên năm cuối ngành Công nghệ Thông tin</li>
-  <li>⛓️ Quan tâm và học tập <b>Blockchain, Smart Contract (Solidity)</b></li>
+  <li>⚛️ Định hướng Frontend / Full-stack với <b>ReactJS</b></li>
+  <li>⛓️ Quan tâm tới <b>Blockchain, Smart Contract (Solidity)</b></li>
   <li>🌱 Hiện đang học <b>React nâng cao, TypeScript, Next.js</b></li>
-  <li>🔭 Thực tập tốt nghiệp: <b>Nhóm trưởng</b> –điều phối công việc, phân công nhiệm vụ, theo dõi tiến độ và và trực tiếp tham gia phát triển hệ thống<b>Full-stack</b></li>
-  <li>🎯 Mục tiêu: Ứng tuyển <b>Intern / Junior React Developer</b> hoặc vị trí liên quan đến <b>Blockchain</b></li>
-  <li>📄 Demo dự án thực tập:
+  <li>🎯 Mục tiêu: Ứng tuyển <b>Fresher / Junior React Developer</b> hoặc vị trí liên quan đến <b>Blockchain</b></li>
+  <li>📫 Liên hệ:
+    <ul>
+      <li>Email: phongnguyenhoangduy2605@gmail.com</li>
+      <li>LinkedIn:... </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 align="left">Dự án thực tế:</h3>
+
+<ul>
+  <li>
+    <b>Dự án thực tập tốt nghiệp – VietFresh</b><br/>
+    Công ty thực tập: <b>Công Ty TNHH Giải Pháp Công Nghệ Phần Mềm GNN (GNN SOFTWARE)</b><br/>
+    Thời gian: <b>10/2025 – 12/2025</b><br/>
+    Vai trò: <b>Nhóm trưởng</b> – chịu trách nhiệm quản lý tiến độ, phân công nhiệm vụ và trực tiếp tham gia thiết kế, phát triển hệ thống với vai trò <b>Full-stack</b>.<br/>
+    Công nghệ chính: ReactJS, Node.js, MongoDB, TailwindCSS<br/>
+    🔗 Demo:
     <a href="https://vietfresh-offical.vercel.app/" target="_blank">
       https://vietfresh-offical.vercel.app/
     </a>
-  </li>
-  <li>📫 Liên hệ:
-    <ul>
-      <li>Email: your-email@gmail.com</li>
-      <li>LinkedIn: https://linkedin.com/in/your-linkedin</li>
-    </ul>
   </li>
 </ul>
 
@@ -40,6 +51,3 @@
   <img src="https://img.shields.io/badge/Ethereum-2D2D2D?style=for-the-badge&logo=ethereum" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phongnhd&show_icons=true&theme=react" />
-</p>
