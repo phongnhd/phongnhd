@@ -1,0 +1,42 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#C084FC"/>
+      <stop offset="35%"  stop-color="#F472B6"/>
+      <stop offset="65%"  stop-color="#FB923C"/>
+      <stop offset="100%" stop-color="#F5D14A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background cream -->
+  <rect width="800" height="420" fill="#F5F2E8"/>
+
+  <!-- Border -->
+  <rect x="3" y="3" width="794" height="414" fill="none" stroke="#111111" stroke-width="3"/>
+  <!-- Shadow effect -->
+  <rect x="9" y="9" width="794" height="414" fill="none" stroke="#111111" stroke-width="2" opacity="0.15"/>
+
+  <!-- Status badge -->
+  <rect x="28" y="28" width="196" height="30" fill="#5AF073"/>
+  <rect x="28" y="28" width="196" height="30" fill="none" stroke="#111111" stroke-width="2"/>
+  <!-- dot -->
+  <circle cx="48" cy="43" r="5" fill="#111111"/>
+  <text x="62" y="48" font-family="Arial Black, sans-serif" font-size="10.5" font-weight="900" fill="#111111" letter-spacing="1.8">AVAILABLE FOR WORK</text>
+
+  <!-- BUILDING -->
+  <text x="28" y="148" font-family="Arial Black, Impact, sans-serif" font-size="88" font-weight="900" fill="#111111" letter-spacing="-1">BUILDING</text>
+
+  <!-- DIGITAL highlight box -->
+  <rect x="26" y="160" width="218" height="52" fill="#F5D14A"/>
+  <rect x="26" y="160" width="218" height="52" fill="none" stroke="#111111" stroke-width="2"/>
+  <text x="37" y="197" font-family="Arial Black, Impact, sans-serif" font-size="46" font-weight="900" fill="#111111" letter-spacing="-1">DIGITAL</text>
+
+  <!-- PRODUCTS -->
+  <text x="28" y="278" font-family="Arial Black, Impact, sans-serif" font-size="88" font-weight="900" fill="#111111" letter-spacing="-1">PRODUCTS</text>
+
+  <!-- THAT -->
+  <text x="28" y="370" font-family="Arial Black, Impact, sans-serif" font-size="88" font-weight="900" fill="#111111" letter-spacing="-1">THAT </text>
+
+  <!-- PHONG. gradient -->
+  <text x="212" y="370" font-family="Arial Black, Impact, sans-serif" font-size="88" font-weight="900" fill="url(#grad)" letter-spacing="-1">PHONG.</text>
+</svg>
