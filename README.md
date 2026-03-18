@@ -1,16 +1,13 @@
-<!-- HERO BANNER -->
 <div align="center">
 
-![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20AVAILABLE%20FOR%20WORK-black?style=for-the-badge&labelColor=5AF073&color=5AF073)
+![Header](./header.svg)
 
 </div>
 
 <br>
 
-# BUILDING<br><kbd>DIGITAL</kbd><br>PRODUCTS<br>THAT **~~SLAP~~**.
-
-> Xin chào 👋 — Tôi là **Phong**. Sinh viên năm cuối CNTT, định hướng **Full-stack**.<br>
-> Tôi kết hợp  **code mạnh mẽ** với **thiết kế mượt mà**.
+> Sinh viên năm cuối CNTT. Tôi blend **brutal code** với **harmonious design**.<br>
+> Full-stack · Blockchain · và một chút âm nhạc trong từng commit.
 
 ---
 
