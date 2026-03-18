@@ -29,21 +29,14 @@
 
 ## 🚀 Projects
 
-> ### 🌿 VietFresh &nbsp;&nbsp; ![GNN Software](https://img.shields.io/badge/GNN_Software-internship-brightgreen?style=flat-square) ![Role](https://img.shields.io/badge/Nhóm_trưởng-Full--stack-F5D14A?style=flat-square&labelColor=111111) ![Period](https://img.shields.io/badge/10%2F2025–12%2F2025-555?style=flat-square)
+> ### 🌿 VietFresh &nbsp;&nbsp; ![GNN Software](https://img.shields.io/badge/GNN_Software-Internship-brightgreen?style=flat-square) ![Role](https://img.shields.io/badge/Nhóm_trưởng-Full--stack-F5D14A?style=flat-square&labelColor=111111) ![Period](https://img.shields.io/badge/10%2F2025–12%2F2025-555?style=flat-square)
 >
-> Nền tảng thương mại nông sản Việt — xây dựng trong kỳ thực tập tốt nghiệp tại **GNN Software**.
+> Nền tảng thương mại nông sản Việt — xây dựng trong kỳ thực tập tốt nghiệp tại **GNN Software**.<br>
+> Tích hợp **Blockchain** để truy xuất nguồn gốc sản phẩm minh bạch trên chuỗi cung ứng.
 >
-> `ReactJS` `Node.js` `MongoDB` `TailwindCSS`
+> `ReactJS` `Node.js` `MongoDB` `TailwindCSS` `Solidity` `Ethereum`
 >
 > 🔗 [vietfresh-offical.vercel.app](https://vietfresh-offical.vercel.app/)
-
-<br>
-
-> ### ⛓️ Blockchain DApp &nbsp;&nbsp; ![Personal](https://img.shields.io/badge/Personal_Project-blueviolet?style=flat-square) ![Role](https://img.shields.io/badge/Solo_Dev-Solidity-3C3C3D?style=flat-square&labelColor=6B21A8&color=3C3C3D)
->
-> Ứng dụng phi tập trung trên Ethereum — nghiên cứu và triển khai Smart Contract với Solidity.
->
-> `Solidity` `Ethereum` `Web3.js` `ReactJS`
 
 ---
 
