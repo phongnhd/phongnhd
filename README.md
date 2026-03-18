@@ -4,7 +4,7 @@
 
 <br>
 
-*Sinh viên năm cuối CNTT — blend **brutal code** với **harmonious design**.*<br>
+*Sinh viên năm cuối CNTT — kết hợp **code mạnh mẽ, phức tạp** với **thiết kế mượt mà**.*<br>
 *Full-stack · Blockchain · một chút âm nhạc trong từng commit.*
 
 <br>
@@ -20,8 +20,8 @@
 
 | | |
 |:---|:---|
-| 🎓 | Sinh viên năm cuối — Công nghệ Thông tin |
-| ⚛️ | Full-stack · **Node.js** · **ReactJS** · TypeScript · Next.js |
+| 🎓 | Sinh viên năm cuối CNTT |
+| ⚛️ | Full-stack · **Node.js** · **ReactJS** · TypeScript · Next.js · .Net |
 | ⛓️ | Blockchain · Smart Contract · **Solidity** · Ethereum |
 | 🎵 | Musician — âm nhạc và code không khác nhau là mấy |
 
@@ -29,27 +29,21 @@
 
 ## 🚀 Projects
 
-<table>
-<tr>
-<td width="60%">
+> ### 🌿 VietFresh &nbsp;&nbsp; ![GNN Software](https://img.shields.io/badge/GNN_Software-internship-brightgreen?style=flat-square) ![Role](https://img.shields.io/badge/Nhóm_trưởng-Full--stack-F5D14A?style=flat-square&labelColor=111111) ![Period](https://img.shields.io/badge/10%2F2025–12%2F2025-555?style=flat-square)
+>
+> Nền tảng thương mại nông sản Việt — xây dựng trong kỳ thực tập tốt nghiệp tại **GNN Software**.
+>
+> `ReactJS` `Node.js` `MongoDB` `TailwindCSS`
+>
+> 🔗 [vietfresh-offical.vercel.app](https://vietfresh-offical.vercel.app/)
 
-### 🌿 VietFresh
-Nền tảng thương mại nông sản Việt — xây dựng trong kỳ thực tập tốt nghiệp tại **GNN Software**.
+<br>
 
-`ReactJS` `Node.js` `MongoDB` `TailwindCSS`
-
-🔗 [vietfresh-offical.vercel.app](https://vietfresh-offical.vercel.app/)
-
-</td>
-<td width="40%" valign="top">
-
-**Vai trò:** Nhóm trưởng<br>
-**Thời gian:** 10/2025 – 12/2025<br>
-**Team size:** Full-stack
-
-</td>
-</tr>
-</table>
+> ### ⛓️ Blockchain DApp &nbsp;&nbsp; ![Personal](https://img.shields.io/badge/Personal_Project-blueviolet?style=flat-square) ![Role](https://img.shields.io/badge/Solo_Dev-Solidity-3C3C3D?style=flat-square&labelColor=6B21A8&color=3C3C3D)
+>
+> Ứng dụng phi tập trung trên Ethereum — nghiên cứu và triển khai Smart Contract với Solidity.
+>
+> `Solidity` `Ethereum` `Web3.js` `ReactJS`
 
 ---
 
@@ -65,6 +59,7 @@ Nền tảng thương mại nông sản Việt — xây dựng trong kỳ thực
 **Backend & DB**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Web3**
