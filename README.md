@@ -18,13 +18,12 @@
 
 ## 🧠 About Me
 
-| | |
-|:---|:---|
-| 🎓 | Sinh viên năm cuối CNTT |
-| ⚛️ | Full-stack · **Node.js** · **ReactJS** · TypeScript · Next.js · .Net |
-| ⛓️ | Blockchain · Smart Contract · **Solidity** · Ethereum |
-| 🎵 | Musician — âm nhạc và code không khác nhau là mấy |
-
+<table>
+  <tr><td><code>01</code></td><td>Sinh viên năm cuối CNTT</td></tr>
+  <tr><td><code>02</code></td><td>Full-stack · <b>Node.js</b> · <b>ReactJS</b> · TypeScript · Next.js · .Net</td></tr>
+  <tr><td><code>03</code></td><td>Blockchain · Smart Contract · <b>Solidity</b> · Ethereum</td></tr>
+  <tr><td><code>04</code></td><td>Musician — âm nhạc và code không khác nhau là mấy</td></tr>
+</table>
 ---
 
 ## 🚀 Projects
