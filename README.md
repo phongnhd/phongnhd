@@ -5,6 +5,7 @@
 <br>
 
 *Sinh viên năm cuối CNTT — code ban ngày, research ban đêm, deploy lúc nào cũng được.*
+
 *Code the frontend. Architect the backend. Deploy the chain.*
 
 <br>
