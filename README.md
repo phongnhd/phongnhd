@@ -4,13 +4,14 @@
 
 <br>
 
-*Sinh viên năm cuối CNTT — kết hợp **code mạnh mẽ, phức tạp** với **thiết kế mượt mà**.*<br>
-*Full-stack · Blockchain · một chút âm nhạc trong từng commit.*
+*Sinh viên năm cuối CNTT — code ban ngày, research ban đêm, deploy lúc nào cũng được.*
+*Code the frontend. Architect the backend. Deploy the chain.*
 
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phongnguyenhoangduy2605@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phongnhd/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://phongnhd.vercel.app/)
 
 </div>
 
