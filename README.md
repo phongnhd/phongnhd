@@ -4,9 +4,9 @@
 
 <br>
 
-*Sinh viên năm cuối CNTT — code ban ngày, research ban đêm, deploy lúc nào cũng được.*
+*Fresher developer — code by day, research by night, deploy anytime.*
 
-*Code the frontend. Architect the backend. Deploy the chain.*
+*Code frontend. Build backend. Deploy blockchain.*
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+##  Về tôi
 
 <table>
   <tr><td><code>01</code></td><td>Sinh viên năm cuối CNTT</td></tr>
@@ -28,7 +28,7 @@
 </table>
 ---
 
-## 🚀 Projects
+##  Dự án tiêu biểu
 
 > ### 🌿 VietFresh &nbsp;&nbsp; ![GNN Software](https://img.shields.io/badge/GNN_Software-Internship-brightgreen?style=flat-square) ![Role](https://img.shields.io/badge/Nhóm_trưởng-Full--stack-F5D14A?style=flat-square&labelColor=111111) ![Period](https://img.shields.io/badge/10%2F2025–12%2F2025-555?style=flat-square)
 >
@@ -41,7 +41,7 @@
 
 ---
 
-## ⚡ Tech Stack
+##  Công nghệ sử dụng
 
 **Frontend**
 
@@ -67,6 +67,6 @@
 
 <div align="center">
 
-*"I don't just write code — I compose logic."*
+*"I don't just write code — I design logic."*
 
 </div>
