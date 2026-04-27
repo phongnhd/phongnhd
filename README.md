@@ -30,15 +30,18 @@
 
 ##  Dự án tiêu biểu
 
-> ### 🌿 VietFresh &nbsp;&nbsp; ![GNN Software](https://img.shields.io/badge/GNN_Software-Internship-brightgreen?style=flat-square) ![Role](https://img.shields.io/badge/Nhóm_trưởng-Full--stack-F5D14A?style=flat-square&labelColor=111111) ![Period](https://img.shields.io/badge/10%2F2025–12%2F2025-555?style=flat-square)
+> ### 🌿 VietFresh &nbsp;&nbsp;
+> ![GNN Software](https://img.shields.io/badge/GNN_Software-Internship-brightgreen?style=flat-square)
+> ![Role](https://img.shields.io/badge/Nhóm_trưởng-Full--stack-F5D14A?style=flat-square&labelColor=111111)
+> ![Period](https://img.shields.io/badge/10%2F2025–12%2F2025-555?style=flat-square)
 >
-> Nền tảng thương mại nông sản Việt — xây dựng trong kỳ thực tập tốt nghiệp tại **GNN Software**.<br>
-> Tích hợp **Blockchain** để truy xuất nguồn gốc sản phẩm minh bạch trên chuỗi cung ứng.
+> Nền tảng thương mại nông sản Việt, phát triển trong kỳ thực tập tại **GNN Software**.  
+> Ứng dụng công nghệ **Blockchain** nhằm đảm bảo truy xuất nguồn gốc minh bạch, nâng cao độ tin cậy trong chuỗi cung ứng.
 >
+> **Tech stack:**  
 > `ReactJS` `Node.js` `MongoDB` `TailwindCSS` `Solidity` `Ethereum`
 >
-> 🔗 [vietfresh-offical.vercel.app](https://vietfresh-offical.vercel.app/)
-
+> 🔗 https://vietfresh-offical.vercel.app/
 ---
 
 ##  Công nghệ sử dụng
@@ -72,7 +75,8 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=58A6FF)
+
 ---
 
 <div align="center">
