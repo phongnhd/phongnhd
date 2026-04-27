@@ -18,17 +18,7 @@
 
 ---
 
-##  Về tôi
-
-<table>
-  <tr><td><code>01</code></td><td>Sinh viên năm cuối CNTT</td></tr>
-  <tr><td><code>02</code></td><td>Full-stack · <b>Node.js</b> · <b>ReactJS</b> · TypeScript · Next.js · .Net</td></tr>
-  <tr><td><code>03</code></td><td>Blockchain · Smart Contract · <b>Solidity</b> · Ethereum</td></tr>
-  <tr><td><code>04</code></td><td>Musician — âm nhạc và code không khác nhau là mấy</td></tr>
-</table>
----
-
-##  Dự án tiêu biểu
+## Dự án tiêu biểu
 
 > ### 🌿 VietFresh &nbsp;&nbsp;
 > ![GNN Software](https://img.shields.io/badge/GNN_Software-Internship-brightgreen?style=flat-square)
@@ -42,6 +32,23 @@
 > `ReactJS` `Node.js` `MongoDB` `TailwindCSS` `Solidity` `Ethereum`
 >
 > 🔗 https://vietfresh-offical.vercel.app/
+
+
+> ### ⛓️ Supply Chain on Blockchain &nbsp;&nbsp;
+> ![Hacker House](https://img.shields.io/badge/Hacker_House-Viet_Nam-0A0A0A?style=flat-square)
+> ![Role](https://img.shields.io/badge/Solo-Full--stack-4CAF50?style=flat-square&labelColor=111111)
+> ![Time](https://img.shields.io/badge/Build_in-48H-FF3B30?style=flat-square)
+> ![Year](https://img.shields.io/badge/2026-555?style=flat-square)
+>
+> Xây dựng hệ thống truy xuất nguồn gốc chuỗi cung ứng trên blockchain **Sui** trong **48 giờ**.
+>
+> – Smart Contract: Phát triển bằng **Sui Move**  
+> – Decentralized Storage: Tích hợp **IPFS** để lưu trữ dữ liệu bất biến  
+> – Full-stack: **Next.js** + **Node.js**  
+>
+> 🔗 https://github.com/phongnhd/global-supply-chain
+
+
 ---
 
 ##  Công nghệ sử dụng
