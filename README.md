@@ -29,7 +29,7 @@
 > Ứng dụng công nghệ **Blockchain** nhằm đảm bảo truy xuất nguồn gốc minh bạch, nâng cao độ tin cậy trong chuỗi cung ứng.
 >
 > **Tech stack:**  
-> `ReactJS` `Node.js` `MongoDB` `TailwindCSS` `Solidity` `Ethereum`
+> React.js, TailwindCSS, Node.js, Express.js, MongoDB, Solidity, Ethereum, Vercel, Render, Cloudinary
 >
 > 🔗 https://vietfresh-offical.vercel.app/
 
