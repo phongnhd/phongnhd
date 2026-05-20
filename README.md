@@ -28,8 +28,7 @@
 > Nền tảng thương mại nông sản Việt, phát triển trong kỳ thực tập tại **GNN Software**.  
 > Ứng dụng công nghệ **Blockchain** nhằm đảm bảo truy xuất nguồn gốc minh bạch, nâng cao độ tin cậy trong chuỗi cung ứng.
 >
-> **Tech stack:**  
-> React.js, TailwindCSS, Node.js, Express.js, MongoDB, Solidity, Ethereum, Vercel, Render, Cloudinary
+> **Tech stack:** React.js, TailwindCSS, Node.js, Express.js, MongoDB, Solidity, Ethereum, Vercel, Render, Cloudinary
 >
 > 🔗 https://vietfresh-offical.vercel.app/
 
@@ -56,9 +55,11 @@
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Backend & DB**
 
