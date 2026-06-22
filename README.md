@@ -41,9 +41,10 @@
 >
 > Xây dựng hệ thống truy xuất nguồn gốc chuỗi cung ứng trên blockchain **Sui** trong **48 giờ**.
 >
-> – Smart Contract: Phát triển bằng **Sui Move**  
-> – Decentralized Storage: Tích hợp **IPFS** để lưu trữ dữ liệu bất biến  
-> – Full-stack: **Next.js** + **Node.js**  
+> – Smart Contract: Phát triển bằng **Sui Move**
+> - AI Agent: Xây dựng AI Agent để trích xuất thông tin từ chứng từ logistics và tự động điền dữ liệu vào các biểu mẫu nghiệp vụ.
+> – Backend: Phát triển API và xử lý nghiệp vụ bằng Node.js.
+> – Frontend: Xây dựng giao diện người dùng bằng Next.js.
 >
 > 🔗 https://github.com/phongnhd/global-supply-chain
 
