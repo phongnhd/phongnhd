@@ -47,7 +47,20 @@
 - Frontend: Xây dựng giao diện người dùng bằng **Next.js**.
 >
 > 🔗 https://github.com/phongnhd/global-supply-chain
-
+>
+> ### 🍕 Pizza Ordering Website &nbsp;&nbsp;
+> ![Role](https://img.shields.io/badge/Frontend_Developer-React-61DAFB?style=flat-square&labelColor=111111)
+> ![Period](https://img.shields.io/badge/04%2F2025–06%2F2025-555?style=flat-square)
+>
+> Phát triển giao diện website đặt pizza hiện đại, responsive với trải nghiệm người dùng mượt mà trên nhiều thiết bị.
+>
+> **Tech stack:** React.js, Tailwind CSS, JavaScript, Vite, Vercel
+>
+> - Xây dựng giao diện responsive bằng **React.js** và **Tailwind CSS**.
+> - Tối ưu hiệu năng với **Lazy Loading**, **Code Splitting** và chỉ tải nội dung khi người dùng cuộn đến khu vực tương ứng (Viewport-based Loading).
+> - Thiết kế UI trực quan, đảm bảo trải nghiệm nhất quán trên desktop và mobile.
+>
+> 🔗 https://pizza-tp-drab.vercel.app/
 
 ---
 
