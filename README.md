@@ -60,7 +60,7 @@
 > - Tối ưu hiệu năng với **Lazy Loading**, **Code Splitting** và chỉ tải nội dung khi người dùng cuộn đến khu vực tương ứng (Viewport-based Loading).
 > - Thiết kế UI trực quan, đảm bảo trải nghiệm nhất quán trên desktop và mobile.
 >
-> 🔗 [https://pizza-tp-drab.vercel.app/](https://pizza-tp-mauve.vercel.app/)
+> 🔗 [https://pizza-tp-mauve.vercel.app/](https://pizza-tp-mauve.vercel.app/)
 
 ---
 
