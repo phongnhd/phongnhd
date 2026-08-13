@@ -25,7 +25,7 @@
 > ![Role](https://img.shields.io/badge/Nhóm_trưởng-Full--stack-F5D14A?style=flat-square&labelColor=111111)
 > ![Period](https://img.shields.io/badge/10%2F2025–12%2F2025-555?style=flat-square)
 >
-> Nền tảng thương mại nông sản Việt, phát triển trong kỳ thực tập tại **GNN Software**.  
+> Website bán nông sản được phát triển trong kỳ thực tập tại **GNN Software**.  
 > Ứng dụng công nghệ **Blockchain** nhằm đảm bảo truy xuất nguồn gốc minh bạch, nâng cao độ tin cậy trong chuỗi cung ứng.
 >
 > **Tech stack:** React.js, TailwindCSS, Node.js, Express.js, MongoDB, Solidity, Ethereum, Vercel, Render, Cloudinary
@@ -60,7 +60,7 @@
 > - Tối ưu hiệu năng với **Lazy Loading**, **Code Splitting** và chỉ tải nội dung khi người dùng cuộn đến khu vực tương ứng (Viewport-based Loading).
 > - Thiết kế UI trực quan, đảm bảo trải nghiệm nhất quán trên desktop và mobile.
 >
-> 🔗 https://pizza-tp-drab.vercel.app/
+> 🔗 [https://pizza-tp-drab.vercel.app/](https://pizza-tp-mauve.vercel.app/)
 
 ---
 
